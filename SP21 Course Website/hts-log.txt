@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Apr 2024 08:54:59 at https://sp21.datastructur.es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" -P 127.0.0.1:7890 https://sp21.datastructur.es/ -O1 "C:\My Websites\cs61b_sp21" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:59:25	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/assets/images/josh4.png (from https://sp21.datastructur.es/)
+09:31:58	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/hannahly.github.io (from https://sp21.datastructur.es/staff.html)
+09:31:58	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/assets/img/staff/angela-chen-1.jpg (from https://sp21.datastructur.es/staff.html)
+09:32:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/assets/img/staff/avyakth-challa-1.jpg (from https://sp21.datastructur.es/staff.html)
+09:32:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/assets/img/staff/saikumar-gantla-1.jpg (from https://sp21.datastructur.es/staff.html)
+09:32:14	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/assets/img/staff/shreyans-sethi-1.jpg (from https://sp21.datastructur.es/staff.html)
+09:32:14	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/assets/img/staff/shriya-nandwani-1.jpg (from https://sp21.datastructur.es/staff.html)
+09:32:39	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/review/tutor-review-4-sol.pdf (from https://sp21.datastructur.es/resources.html)
+09:32:41	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/review/tutor-review-5-sol.pdf (from https://sp21.datastructur.es/resources.html)
+09:35:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/guides/ed-policies.html (from https://sp21.datastructur.es/resources.html)
+09:36:48	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/It will be updated close to exam time. (from https://sp21.datastructur.es/exams.html)
+09:36:48	Warning: 	Retry after error -4 (Connect Error) at link https://sp21.datastructur.es/materials/proj/proj3/img/program_args.png (from https://sp21.datastructur.es/materials/proj/proj3/proj3)
+09:37:18	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/proj/proj3/img/toggle-lights.gif (from https://sp21.datastructur.es/materials/proj/proj3/proj3)
+09:37:44	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/proj/proj3/img/enemy.gif (from https://sp21.datastructur.es/materials/proj/proj3/proj3)
+09:38:25	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/guides/assets/img/favicon.ico (from https://sp21.datastructur.es/materials/guides/gitbugs)
+09:41:10	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/guides/megathread-comment.png (from https://sp21.datastructur.es/materials/guides/ed-guide)
+09:41:11	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/guides/megathread-sort.png (from https://sp21.datastructur.es/materials/guides/ed-guide)
+09:41:47	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/proj/proj0/img/opening-project-structure.png (from https://sp21.datastructur.es/materials/proj/proj0/proj0)
+09:41:52	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/lectures/lec24/this xkcd (from https://sp21.datastructur.es/materials/lectures/lec24/lec24)
+09:41:52	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/lectures/lec25/Fall 2013 final (from https://sp21.datastructur.es/materials/lectures/lec25/lec25)
+09:41:52	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/lectures/lec26/thisgraph for an example of one for which the MST is a SPT (from https://sp21.datastructur.es/materials/lectures/lec26/lec26)
+09:41:52	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/lectures/lec26/Sharks and Minnows (from https://sp21.datastructur.es/materials/lectures/lec26/lec26)
+09:41:52	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/exam/image/proctor1.png (from https://sp21.datastructur.es/materials/exam/proctoring)
+09:43:17	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/exam/image/proctor7.png (from https://sp21.datastructur.es/materials/exam/local_recording)
+09:43:18	Warning: 	Retry after error -4 (Connect Error) at link https://sp21.datastructur.es/materials/guides/img/file-status.png (from https://sp21.datastructur.es/materials/guides/using-git)
+09:47:16	Warning: 	Retry after error -2 (Receive Time Out) at link https://sp21.datastructur.es/materials/exam/image/proctor7.png (from https://sp21.datastructur.es/materials/exam/local_recording)
+09:47:16	Error: 	"Not Found" (404) at link https://sp21.datastructur.es/materials/lab/lab1setup/'https://youtu.be/Ws-irWyp-G8' (from https://sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 minutes 0 seconds : 520 links scanned, 492 files written (145542454 bytes overall) [142659760 bytes received at 44861 bytes/sec], 4757293 bytes transferred using HTTP compression in 171 files, ratio 31%, 4.1 requests per connection
+(9 errors, 18 warnings, 0 messages)
